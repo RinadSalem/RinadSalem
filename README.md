@@ -13,20 +13,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:FF6FD8&height=4&section=header" width="100%"/>
 
-## 🧑‍💻 About Me
-
-```yaml
-const rinad = {
-  role: "Mobile & Full-Stack Developer",
-  education: "B.Sc. in Computer Science",
-  stack: ["Flutter", "Python", "ASP.NET Core", "REST APIs"],
-  currentlyExploring: ["AI", "Data Analytics"],
-  mission: "Building clean, scalable, and user-focused applications."
-};
-```
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,100:6D5BBA&height=4&section=header" width="100%"/>
+
+
+<h2> 👋Hello! I'm Rinad </h2>
+
+<p>
+Computer Science graduate passionate about building seamless and efficient full-stack web and mobile applications.
+</p>
+
+<p>
+I focus on creating user-centric experiences and am constantly exploring new frontiers in AI and data analytics.
+</p>
+
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +37,9 @@ const rinad = {
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -49,10 +52,7 @@ const rinad = {
 <img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-### Databases
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 ### Tools & Platforms
 
@@ -69,6 +69,8 @@ const rinad = {
 <img src="https://img.shields.io/badge/Claude-D97756?style=for-the-badge&logo=claude&logoColor=white"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:FF6FD8&height=4&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -118,6 +120,8 @@ Full-stack web system using ASP.NET Core and SQL Server.
 
 Flutter weather app consuming REST APIs with reactive state management.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,100:6D5BBA&height=4&section=header" width="100%"/>
+
 
 ## 📊 GitHub Stats
 
@@ -145,7 +149,6 @@ Flutter weather app consuming REST APIs with reactive state management.
 
 <br><br>
 
-<i>⭐ Open to internships and junior developer roles in mobile & full-stack development.</i>
 
 </div>
 
