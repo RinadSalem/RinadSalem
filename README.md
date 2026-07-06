@@ -1,13 +1,9 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FF6FD8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+%26+Mobile+Developer;Crafting+Interactive+Web+%26+Mobile+UI%2FUX;Database+Design+%26+Robust+Backend+Engineering;Passionate+About+Problem+Solving+%26+Clean+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=FF6FD8&center=true&vCenter=true&width=850&lines=Full-Stack+Web+%26+Mobile+Developer;Crafting+Interactive+Web+%26+Mobile+UI%2FUX;Database+Design+%26+Robust+Backend+Engineering;Passionate+About+Problem+Solving+%26+Clean+Code" alt="Typing SVG" />
 
-<br>
 
-<img src="https://komarev.com/ghpvc/?username=RinadSalem&style=for-the-badge&color=8D58BF&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/RinadSalem?style=for-the-badge&color=FF6FD8&labelColor=141321&logo=github&logoColor=white" />
-<a href="https://linkedin.com/in/rinad-bashnini"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -136,8 +132,6 @@ Flutter weather app consuming REST APIs with reactive state management.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:FF6FD8&height=4&section=header" 
   width="100%"/>
 
-## 🐍 My Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/RinadSalem/RinadSalem/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 
@@ -147,7 +141,7 @@ Flutter weather app consuming REST APIs with reactive state management.
 <a href="mailto: rinadsalemb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/RinadSalem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br><br>
+
 
 
 </div>
