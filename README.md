@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:FF6FD8&height=250&section=header&text=Hi%20There,%20I'm%20Rinad%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Web%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FF6FD8&center=true&vCenter=true&width=750&lines=Flutter+%2B+GetX+Mobile+Developer+%F0%9F%93%B1;ASP.NET+Core+%26+C%23+Backend+Developer+%F0%9F%92%BB;Offline-First+%26+Clean+Architecture+Enthusiast+%E2%9A%A1;Exploring+AI+%26+Data+Analytics+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=FF6FD8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+%26+Mobile+Developer;Crafting+Interactive+Web+%26+Mobile+UI%2FUX;Database+Design+%26+Robust+Backend+Engineering;Passionate+About+Problem+Solving+%26+Clean+Code" alt="Typing SVG" />
 
 <br>
 
@@ -17,41 +16,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-rinad = {
-  role: "Mobile & Web Developer",
+const rinad = {
+  role: "Mobile & Full-Stack Developer",
   education: "B.Sc. in Computer Science",
-  focus: ["Flutter", "GetX", "ASP.NET Core", "Offline-First Apps"],
-  currently_exploring: ["AI", "Data Analytics"],
-  fun_fact: "I turn ideas into clean, functional, pixel-perfect apps ✨"
-}
+  stack: ["Flutter", "Python", "ASP.NET Core", "REST APIs"],
+  currentlyExploring: ["AI", "Data Analytics"],
+  mission: "Building clean, scalable, and user-focused applications."
+};
 ```
 
-<table>
-<tr>
-<td>
-
-🎯 **Focus** — building cross-platform mobile apps with Flutter and full-stack web apps with ASP.NET Core
-
-</td>
-<td>
-
-🌱 **Currently learning** — AI & data analytics to build smarter, data-driven software
-
-</td>
-</tr>
-<tr>
-<td>
-
-💬 **Ask me about** — Flutter architecture, GetX state management, or offline-first app design
-
-</td>
-<td>
-
-📫 **Reach me** — via LinkedIn or email, see the Connect section below 👇
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,100:6D5BBA&height=4&section=header" width="100%"/>
 
@@ -59,121 +32,115 @@ rinad = {
 
 <div align="center">
 
-**Languages & Core**
+### Languages & Core
 
-<img src="https://skillicons.dev/icons?i=dart,csharp,python,js,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-**Frameworks & Mobile Tooling**
+### Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=flutter,dotnet&theme=dark" />
-<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/sqflite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="47"/>
-<img src="https://img.shields.io/badge/flutter__tts-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-**Databases**
+### Databases
 
-<img src="https://skillicons.dev/icons?i=sqlite,mssql&theme=dark" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-**Tools & Platforms**
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,visualstudio&theme=dark" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=chatgpt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-9B62FF?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97756?style=for-the-badge&logo=claude&logoColor=white"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:FF6FD8&height=4&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 📖 Qisasi
 
-### 📖 [Qisasi](https://github.com/RinadSalem/Qisasi-Interactive-Storytelling-App)
-**Interactive Storytelling App**
+<p align="center">
+  <a href="https://github.com/RinadSalem/Qisasi-Interactive-Storytelling-App">
+    <img src="assets/qisasi-banner.jpg" width="900"/>
+  </a>
+</p>
 
-An offline-first Arabic storytelling app for kids with a custom **weighted rule-based inference engine** that matches stories to a child's mood, character, and location — 14 relational SQLite tables, RBAC, and synced text-to-speech narration.
+Offline-first Arabic storytelling app with rule-based recommendation engine and text-to-speech narration.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/sqflite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/flutter__tts-02569B?style=flat-square"/>
+---
 
-</td>
-<td width="50%">
+### 💸 Masarify
 
-### 💸 [Masarify](https://github.com/RinadSalem/Masarify-Expense-Manager-App)
-**Offline Expense Manager**
+<p align="center">
+  <a href="https://github.com/RinadSalem/Masarify-Expense-Manager-App">
+    <img src="assets/masarify-banner.png" width="900"/>
+  </a>
+</p>
 
-A fully offline personal finance tracker with a clean, layered architecture. **GetX** drives reactive state and DI, **SQLite** handles secure local storage, and it ships with real-time budget alerts and a Material 3 UI.
+Offline finance tracker with clean architecture and SQLite database.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 🌿 Farm Management System
 
-### 🌿 [Farm Management System](https://github.com/RinadSalem/Farm-Management-System-ASP.NET-Core-MVC-)
-**ASP.NET Core MVC Web App**
+<p align="center">
+  <a href="https://github.com/RinadSalem/Farm-Management-System-ASP.NET-Core-MVC-">
+    <img src="assets/farm-banner.jpg" width="900"/>
+  </a>
+</p>
 
-A full-stack platform managing farm cabins, products, and bookings via **Entity Framework Core** and **SQL Server** — with a public-facing site and a secured admin dashboard for full CRUD control.
+Full-stack web system using ASP.NET Core and SQL Server.
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+---
 
-</td>
-<td width="50%">
+### 🌤️ Weather App
 
-### 🌤️ [Weather App](https://github.com/RinadSalem/Weather-App-Flutter-GetX)
-**Flutter + GetX Weather App**
+<p align="center">
+  <a href="https://github.com/RinadSalem/Weather-App-Flutter-GetX">
+    <img src="assets/weather-banner.jpg" width="900"/>
+  </a>
+</p>
 
-A native Android weather app consuming the **WeatherAPI** REST endpoint, structured in a strict GetX flow (Model → Controller → Binding → Views) with a UI that reacts live to temperature changes.
+Flutter weather app consuming REST APIs with reactive state management.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/REST_API-FF6FD8?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,100:6D5BBA&height=4&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
+
+
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RinadSalem&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinadSalem&layout=compact&theme=radical&hide_border=true" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RinadSalem&theme=radical&hide_border=true" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RinadSalem&theme=react-dark&hide_border=true" width="90%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinadSalem&theme=transparent&hide_border=true" width="95%" />
 </div>
 
-<details>
-<summary>🏆 Click to see my GitHub Trophies</summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RinadSalem&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-</details>
 
-<details>
-<summary>🐍 Click to see my contribution snake (setup required — see note below)</summary>
-<br>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RinadSalem/RinadSalem/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RinadSalem/RinadSalem/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RinadSalem/RinadSalem/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-</details>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:FF6FD8&height=4&section=header" 
+  width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5BBA,100:FF6FD8&height=4&section=header" width="100%"/>
+## 🐍 My Contribution Snake
+![GitHub Snake](https://raw.githubusercontent.com/RinadSalem/RinadSalem/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/rinad-bashnini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto: rinadsalemb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/RinadSalem"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
